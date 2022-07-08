@@ -1,0 +1,16 @@
+C:\Users\vinic\source\repos\ProjetoLanternaYago\ProjetoLanternaYago\bin\Debug\netcoreapp3.1\ProjetoLanternaYago.exe
+C:\Users\vinic\source\repos\ProjetoLanternaYago\ProjetoLanternaYago\bin\Debug\netcoreapp3.1\ProjetoLanternaYago.deps.json
+C:\Users\vinic\source\repos\ProjetoLanternaYago\ProjetoLanternaYago\bin\Debug\netcoreapp3.1\ProjetoLanternaYago.runtimeconfig.json
+C:\Users\vinic\source\repos\ProjetoLanternaYago\ProjetoLanternaYago\bin\Debug\netcoreapp3.1\ProjetoLanternaYago.runtimeconfig.dev.json
+C:\Users\vinic\source\repos\ProjetoLanternaYago\ProjetoLanternaYago\bin\Debug\netcoreapp3.1\ProjetoLanternaYago.dll
+C:\Users\vinic\source\repos\ProjetoLanternaYago\ProjetoLanternaYago\bin\Debug\netcoreapp3.1\ProjetoLanternaYago.pdb
+C:\Users\vinic\source\repos\ProjetoLanternaYago\ProjetoLanternaYago\obj\Debug\netcoreapp3.1\ProjetoLanternaYago.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\ProjetoLanternaYago\ProjetoLanternaYago\obj\Debug\netcoreapp3.1\ProjetoLanternaYago.csproj.GenerateResource.cache
+C:\Users\vinic\source\repos\ProjetoLanternaYago\ProjetoLanternaYago\obj\Debug\netcoreapp3.1\ProjetoLanternaYago.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\ProjetoLanternaYago\ProjetoLanternaYago\obj\Debug\netcoreapp3.1\ProjetoLanternaYago.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\ProjetoLanternaYago\ProjetoLanternaYago\obj\Debug\netcoreapp3.1\ProjetoLanternaYago.AssemblyInfo.cs
+C:\Users\vinic\source\repos\ProjetoLanternaYago\ProjetoLanternaYago\obj\Debug\netcoreapp3.1\ProjetoLanternaYago.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\ProjetoLanternaYago\ProjetoLanternaYago\obj\Debug\netcoreapp3.1\ProjetoLanternaYago.dll
+C:\Users\vinic\source\repos\ProjetoLanternaYago\ProjetoLanternaYago\obj\Debug\netcoreapp3.1\ProjetoLanternaYago.pdb
+C:\Users\vinic\source\repos\ProjetoLanternaYago\ProjetoLanternaYago\obj\Debug\netcoreapp3.1\ProjetoLanternaYago.genruntimeconfig.cache
+C:\Users\vinic\source\repos\ProjetoLanternaYago\ProjetoLanternaYago\obj\Debug\netcoreapp3.1\ProjetoLanternaYago.Lanterna.resources
