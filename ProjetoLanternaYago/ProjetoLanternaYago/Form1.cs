@@ -49,9 +49,9 @@ namespace ProjetoLanternaYago
             else if(s==0){
                 label1.Text = "Bateria acabou!!";
                 label2.ForeColor = Color.Black;
-                progressBar1.Value = 0;
+                progressBar1.Value = 1;
             }
-            progressBar1.Value = s;
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
